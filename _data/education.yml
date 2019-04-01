@@ -1,8 +1,8 @@
-# Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+# Education TemplateEducation
+Binghamton University, State University of New York, Decker School of Nursing Expected May 2019
+ Bachelor of Science in Nursing Cumulative GPA: 3.44/4.00, Nursing GPA: 3.49/4.00
+- name: Binghamton University, State University of New York, Decker School of Nursing
+  dates: 2015-2019
+  qualification: Bachelor of Science in Nursing 
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Cumulative GPA: 3.44/4.00, Nursing GPA 3.49/4.00
