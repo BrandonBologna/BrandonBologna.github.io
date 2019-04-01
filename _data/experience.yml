@@ -1,5 +1,25 @@
 # Experience template
+- company: Glen Cove Hospital, Northwell Health
+  link: Link to company (optional)
+  job_title: Student Nurse Extern
+  dates: June 2018-Aug.2018
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Worked in a Critical Care Unit under the supervision of a registered nurse, assisting in all routine care
+    Provided for patient safety adhering to standard procedures of nursing and policies of Glen Cove Hospital
+    Collected data, performed assessments of patient and collaborated with RN to develop plans of care
+    Performed duties such as IV access, port-a-cath access, urinary catheter insertion and removal, CVC care and dressing changes, sterile dressing changes, sterile and non-sterile dressings and others as applicable per policy and procedure
+    Demonstrated time management and organizational skills as well as behavior reflecting cooperation, reliability, initiative and team work
 - company: Company name
+  link: Link to company (optional)
+  job_title: Job title
+  dates: Date Range (eg. November 2016 - present)
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+    - company: Company name
   link: Link to company (optional)
   job_title: Job title
   dates: Date Range (eg. November 2016 - present)
