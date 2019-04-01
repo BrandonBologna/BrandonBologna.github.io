@@ -3,27 +3,23 @@
   link: Link to company (optional)
   job_title: Student Nurse Extern
   dates: June 2018-Aug.2018
-  quote: >
-   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Worked in a Critical Care Unit under the supervision of a registered nurse, assisting in all routine care
-    Provided for patient safety adhering to standard procedures of nursing and policies of Glen Cove Hospital
-    Collected data, performed assessments of patient and collaborated with RN to develop plans of care
-    Performed duties such as IV access, port-a-cath access, urinary catheter insertion and removal, CVC care and dressing changes, sterile dressing changes, sterile and non-sterile dressings and others as applicable per policy and procedure
-    Demonstrated time management and organizational skills as well as behavior reflecting cooperation, reliability, initiative and team work
-- company: Company name
+    Worked in a Critical Care Unit under the supervision of a registered nurse, assisting in all routine care.
+    Provided for patient safety adhering to standard procedures of nursing and policies of Glen Cove Hospital.
+    Collected data, performed assessments of patient and collaborated with RN to develop plans of care.
+    Performed duties such as IV access, port-a-cath access, urinary catheter insertion and removal, CVC care and dressing changes, sterile dressing changes, sterile and non-sterile dressings and others as applicable per policy and procedure.
+    Demonstrated time management and organizational skills as well as behavior reflecting cooperation, reliability, initiative and team work.
+- company: Decker School of Nursing, Binghamton University
   link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  job_title: Simulation Lab Aide
+  dates: Aug. 2017-May 2019
   description: | # this will include new lines to allow paragraphs
-    Description of role
-    - company: Company name
+    Memorize case scripts detailing emotions, behaviors and disease signs and symptoms for presentation. 
+    Present case information in a standardized manner, as elicited by students during simulated examinations. 
+    - company: Late Nite Binghamton, Binghamton University
   link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  job_title: Head Sound Tech
+  dates: Aug. 2016-May 2019
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Coordinate and schedules sound tech staff for weekly events. 
+    Oversaw setting up and breaking down any equipment needed for events and promotion.
