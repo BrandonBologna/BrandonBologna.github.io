@@ -13,7 +13,7 @@ linkedin_username: brandon-s-285599180
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: LinkedIn_Photo.jpeg
+about_profile_image: LinkedIn_Photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
